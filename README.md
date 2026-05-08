@@ -20,4 +20,4 @@ O projeto conta com uma suíte de testes robusta. Para rodar:
 - Alertas visuais para itens com estoque crítico.
 
 ---
-*A documentação de requisitos e o script do banco de dados encontram-se no repositório da API: [cole o link do seu github do backend aqui]*
+*A documentação de requisitos e o script do banco de dados encontram-se no repositório da API: https://github.com/andre0gondek/vitalmed-api
